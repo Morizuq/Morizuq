@@ -1,6 +1,6 @@
 ⚡ Yeah, I use insecticides to debug my code :)
 
-### Hahahah. Hello 👋 and Welcome! 
+### Hahahah! Hello 👋 and Welcome! 
 #I am Morizuq ✨, a web developer and lover of javascript. 
 I work with React, Node/Express, MongoDb and solidity - all with passion and willingness to know more 😄. 
 
