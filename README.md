@@ -1,4 +1,8 @@
-### Hi there 👋
+⚡ Yeah, I use insecticides to debug my code :)
+
+### Hahahah. Hello 👋 and Welcome! 
+#I am Morizuq ✨, a web developer and lover of javascript. 
+I work with React, Node/Express, MongoDb and solidity - all with passion and willingness to know more 😄. 
 
 <!--
 **Morizuq/Morizuq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
