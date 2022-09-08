@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **morizuqshoneye@gmail.com**
 
-- ⚡ Fun fact **How to debug like pros: use insecticides**
+- ⚡ How to debug like pros: **use insecticides**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
