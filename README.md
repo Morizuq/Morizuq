@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morizuq</h1>
-<h3 align="center">A passionate javascript guy from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 <img align="right" alt="Coding" height="250" width="400" src="gifs/pg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morizuq&label=Profile%20views&color=0e75b6&style=flat" alt="morizuq" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **a lot**
 
-- 💬 Ask me about **Javascript: Node, Express, NestJs**
+- 💬 Ask me about **Javascript: React, Node, Express, NestJs | Dart: Flutter **
 
 - 📫 How to reach me **morizuqshoneye@gmail.com**
 
