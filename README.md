@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morizuq</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+<h3 align="center">A Mobile Engineer</h3>
 <img align="right" alt="Coding" height="250" width="400" src="gifs/pg.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morizuq&label=Profile%20views&color=0e75b6&style=flat" alt="morizuq" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **a lot**
 
-- 💬 Ask me about **Javascript: React, Node, Express, NestJs | Dart: Flutter **
+- 💬 Ask me about **Dart: Flutter | Javascript: React, Node, Express, NestJs**
 
 - 📫 How to reach me **morizuqshoneye@gmail.com**
 
@@ -21,7 +21,6 @@
 <a href="https://linkedin.com/in/morizuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="morizuq" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19952162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19952162" height="30" width="40" /></a>
 <a href="https://codesandbox.com/morizuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="morizuq" height="30" width="40" /></a>
-<a href="https://dribbble.com/morizuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="morizuq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/morizuq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="morizuq" height="30" width="40" /></a>
 </p>
 
