@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Morizuq</h1>
-<img align="right" alt="Coding" height="250" width="400" src="gifs/pg.gif">
+<!-- <img align="right" alt="Coding" height="250" width="400" src="gifs/pg.gif"> -->
 
 # 💫 About Me:
 I'm looking to collaborate on mobile energy
@@ -15,21 +15,12 @@ I'm looking to collaborate on mobile energy
 ![](https://github-readme-streak-stats.herokuapp.com/?user=morizuq&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=morizuq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=morizuq&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=morizuq&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-###
-
-<img src="https://raw.githubusercontent.com/morizuq/morizuq/output/snake.svg" alt="Snake animation" />
-
-###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=morizuq&icon=10&color=0)](https://visitcount.itsvg.in)
