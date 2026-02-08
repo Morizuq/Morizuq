@@ -1,7 +1,7 @@
-# 💫 About Me:
+## 💫 About Me:
 Software Engineer (Mobile Heavy)
 
-# 📊 GitHub Stats:
+## My gitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Morizuq&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Morizuq&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Morizuq&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
