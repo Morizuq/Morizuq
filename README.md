@@ -1,13 +1,37 @@
-## 💫 About Me:
-Software Engineer (Mobile Heavy)
+## Android Native Engineer | Mobile SDK | Payment Infrastructure
 
-## My gitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Morizuq&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Morizuq&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Morizuq&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+I build mobile systems where trust, money, and state collide.
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Morizuq) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/morizuq) 
+Currently focused on secure mobile payments, wallet infrastructure, and SDK design.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Engineering Philosophy
+
+I care about how things behave under stress.
+
+• Where assumptions leak  
+• Where state corrupts  
+• Where attackers look first  
+
+If it handles money, it must be boringly correct.
+
+
+## What I Build
+
+• Android-first fintech platforms  
+• Payment SDKs  
+• Custodial wallet systems  
+• Secure authentication flows  
+• Web3-integrated mobile clients  
+
+
+## Currently Exploring
+
+• Cryptographic primitives from first principles  
+• Key management on mobile  
+• Kotlin coroutine internals 
+
+
+## Closing
+
+If it touches money or identity, I want to understand it deeply — including how it fails.
