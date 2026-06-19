@@ -1,60 +1,61 @@
-## Kotlin Mobile Engineer | Android Native | Mobile SDK | Payment Infrastructure
+## Mobile Engineer | Flutter · React Native · Android Native · KMP
 
-I build mobile systems where interaction, trust, and state converge.
+I build mobile experiences from ride-hailing platforms to developer tooling. I go where interesting problems are.
 
-Focused on Kotlin-first Android development, while designing systems that handle real-world constraints — performance, consistency, and failure.
+Across Flutter, React Native, and Kotlin/Jetpack Compose, I care about
+the same things regardless of stack: clean architecture, predictable
+state, and systems that hold up when real users show up.
 
+---
+
+## What I Ship
+
+5 production apps shipped across the App Store and Google Play —
+built across Flutter and React Native.
+
+- **Flutter** — clean architecture, BLoC/Riverpod, real-world
+  integrations (maps, payments, WebView flows, ride-hailing)
+- **React Native** — TypeScript, Expo, production-grade feature
+  architecture
+- **Android Native** — Jetpack Compose, Kotlin-first architecture
+- **Kotlin Multiplatform** — shared business logic across Android and iOS
+- **Flutter plugins** — native platform channels across Dart, Kotlin,
+  and Swift
+
+---
 
 ## Engineering Philosophy
 
-I care about how systems behave under pressure.
+I care about how systems behave under pressure — not just how they
+look in a README.
 
-• Where assumptions leak  
-• Where state becomes inconsistent  
-• Where performance degrades  
-• Where attackers look first  
+- Where assumptions leak
+- Where state becomes inconsistent
+- Where a caffeinated hotfix quietly breaks your architecture
+- Where attackers look first
 
-If it handles money, identity, or user-generated content — it must be predictable, observable, and resilient.
+If real users depend on it — it must be predictable, observable,
+and resilient.
 
-
-## What I Build
-
-• Kotlin/Jetpack Compose mobile applications  
-• Interactive apps for creatives (comics, storytelling, content experiences)  
-• Android-first fintech platforms  
-• Payment SDKs and wallet infrastructure  
-• Secure authentication and session systems  
-• API-driven mobile architectures  
-
-
-## Cross-Platform Background
-
-Before going Kotlin-native, I built and shipped production apps using:
-
-• Flutter (Dart)  
-• React Native (TypeScript/JavaScript)  
-
-This informs how I design:
-• shared abstractions  
-• predictable state systems  
-• cross-platform-ready architectures  
-
+---
 
 ## Currently Exploring
 
-• Jetpack Compose performance and recomposition internals  
-• Kotlin coroutines and Flow (state + concurrency)  
-• Cryptographic primitives from first principles  
-• Secure key management on mobile  
-• Rendering performance for content-heavy apps (e.g. comics, media)
+- Jetpack Compose recomposition internals and rendering performance
+- Kotlin coroutines and Flow — state + concurrency under the hood
+- Cryptographic primitives and secure key management on mobile
+- What it would take to build a Dart-native map SDK from scratch
 
+---
 
-## Closing
+## Open Source
 
-I’m interested in systems that combine:
+**[Zuq CLI](https://github.com/Morizuq/zuq_cli)** — Scaffold, extend,
+and audit Flutter Clean Architecture projects. Topological dependency
+resolution, static import analysis, and CI-ready boundary enforcement.
 
-• interaction (UX)  
-• state (consistency)  
-• trust (security)  
+`dart pub global activate zuq_cli`
 
-Especially where failure is not obvious — until it matters.
+**[video_thumbnailer](https://github.com/Morizuq/video_thumbnailer)** —
+A Flutter plugin for generating video thumbnails from local files via
+native platform channels (Kotlin + Swift).
