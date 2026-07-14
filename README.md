@@ -1,61 +1,99 @@
-## Mobile Engineer | Flutter · React Native · Android Native · KMP
+# Flutter Engineer • Dart • Mobile Product Engineering
 
-I build mobile experiences from ride-hailing platforms to developer tooling. I go where interesting problems are.
+I build high-quality Flutter applications that solve real product problems.
 
-Across Flutter, React Native, and Kotlin/Jetpack Compose, I care about
-the same things regardless of stack: clean architecture, predictable
-state, and systems that hold up when real users show up.
+My work spans consumer apps, developer tooling, AI-powered experiences, and mobile infrastructure. While Flutter is my primary platform, I leverage native Android (Kotlin) whenever platform-specific capabilities demand it.
 
----
-
-## What I Ship
-
-5 production apps shipped across the App Store and Google Play —
-built across Flutter and React Native.
-
-- **Flutter** — clean architecture, BLoC/Riverpod, real-world
-  integrations (maps, payments, WebView flows, ride-hailing)
-- **React Native** — TypeScript, Expo, production-grade feature
-  architecture
-- **Android Native** — Jetpack Compose, Kotlin-first architecture
-- **Kotlin Multiplatform** — shared business logic across Android and iOS
-- **Flutter plugins** — native platform channels across Dart, Kotlin,
-  and Swift
+I enjoy building products that are simple to use, difficult to break, and pleasant to maintain.
 
 ---
 
-## Engineering Philosophy
+## What I Build
 
-I care about how systems behave under pressure — not just how they
-look in a README.
-
-- Where assumptions leak
-- Where state becomes inconsistent
-- Where a caffeinated hotfix quietly breaks your architecture
-- Where attackers look first
-
-If real users depend on it — it must be predictable, observable,
-and resilient.
+- Production Flutter applications
+- AI-powered mobile experiences
+- Custom Flutter plugins with native Android & iOS integrations
+- Developer tooling for Flutter teams
+- Offline-first and real-time mobile applications
 
 ---
 
-## Currently Exploring
+## Technical Focus
 
-- Jetpack Compose recomposition internals and rendering performance
-- Kotlin coroutines and Flow — state + concurrency under the hood
-- Cryptographic primitives and secure key management on mobile
-- What it would take to build a Dart-native map SDK from scratch
+### Flutter & Dart
+
+- Clean Architecture
+- Riverpod
+- BLoC
+- Feature-first architecture
+- Platform Channels
+- Performance optimization
+- Animations
+- State management
+
+### Native Integration
+
+When Flutter isn't enough, I build native integrations using:
+
+- Kotlin
+- Swift
+- Android SDK
+- iOS SDK
+
+This allows Flutter applications to access platform APIs without compromising developer experience.
+
+---
+
+## Engineering Principles
+
+I value systems that remain predictable as they grow.
+
+That means:
+
+- explicit architecture
+- maintainable abstractions
+- observable systems
+- performance-conscious design
+- secure defaults
+
+Good software should survive changing requirements—not just demos.
+
+---
+
+## Currently Building
+
+- **3rip** — AI-powered 2D → 3D product preview platform built with Flutter
+- Flutter developer tooling
+- Advanced Dart internals and runtime exploration
+- High-performance Flutter architecture patterns
 
 ---
 
 ## Open Source
 
-**[Zuq CLI](https://github.com/Morizuq/zuq_cli)** — Scaffold, extend,
-and audit Flutter Clean Architecture projects. Topological dependency
-resolution, static import analysis, and CI-ready boundary enforcement.
+### Zuq CLI
 
-`dart pub global activate zuq_cli`
+A CLI for scaffolding and maintaining Flutter Clean Architecture projects.
 
-**[video_thumbnailer](https://github.com/Morizuq/video_thumbnailer)** —
-A Flutter plugin for generating video thumbnails from local files via
-native platform channels (Kotlin + Swift).
+Features include:
+
+- project scaffolding
+- dependency validation
+- architectural boundary enforcement
+- CI-friendly project auditing
+
+### video_thumbnailer
+
+A Flutter plugin for generating video thumbnails using native Kotlin and Swift implementations.
+
+---
+
+## Interests
+
+Outside day-to-day product development, I enjoy exploring:
+
+- Dart runtime internals
+- Flutter rendering pipeline
+- Mobile security
+- AI integration in mobile applications
+- Developer experience tooling
